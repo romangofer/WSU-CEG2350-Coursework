@@ -1,0 +1,5 @@
+#! /bin/bash
+
+echo 'This is from polo'
+
+echo cd "$(</home/ubuntu/git/spring2021-ceg2350-romangofer/Lab04/scripts/output.txt)"

@@ -1,0 +1,22 @@
+Name: Roman Gofer
+Email: gofer.2@wright.edu
+
+Part 1 Lab Questions:
+
+1. The Elastic IP address for my environment is 34.224.229.96
+
+Part 2 Questions:
+
+1. You exit vim by pressing the escape key. After this, you type in ":wq" and hit "enter"
+
+2. The path I used to find my key is /home/roman_gofer/ceg2350privatekey.pem . I used the pwd, ls, and cd commands to find it.
+
+3. I used the "ssh -i /home/roman_gofer/ceg2350privatekey.pem ubuntu@34.224.229.96" command to SSH into my AWS environment.
+
+4. The "PRETTY_NAME" of the Operating System is "Ubuntu 18.04.2 LTS" I found this by using the "cat /etc/*-release" command.
+
+Part 3 Questions:
+
+1. Here is the URL to my GitHub repository: https://github.com/WSU-kduncan/spring2021-ceg2350-romangofer
+
+2. Here is the command I used to clone my repository: git clone https://github.com/WSU-kduncan/spring2021-ceg2350-romangofer.git

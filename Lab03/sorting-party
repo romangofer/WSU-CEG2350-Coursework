@@ -1,0 +1,18 @@
+#!/bin/bash
+
+
+
+filename=$1
+
+
+
+sort -n $filename > sorted.txt
+
+if [[ $filename =~ ^.+\.txt$ ]]
+then
+	echo "Is a file that ends in .txt"
+else
+	echo -e  "\e[1;31m File format not allowed \e[0m"
+fi
+
+
